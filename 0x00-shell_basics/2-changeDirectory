@@ -1,0 +1,3 @@
+#!/bin/bash
+# cd $1 <- will receive one argument to execute cd && $SHELL at the end to execute a childe instance
+cd ~
