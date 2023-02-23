@@ -1,0 +1,3 @@
+#!/bin/bash
+export ROADMAP="Map"
+echo "$ROADMAP"

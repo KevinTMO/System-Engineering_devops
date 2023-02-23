@@ -1,0 +1,3 @@
+#!/bin/bash
+export DECIMAL=11
+printf "%x" $DECIMAL ; echo ""
